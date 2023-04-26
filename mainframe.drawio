@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T23:29:50.544Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.7" etag="uMTLZdqFbu-jYuI1Ch09" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T23:35:12.266Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="XoGBznLUDrqrMnlEXGsj" version="21.1.7" type="github">
   <diagram name="第 1 页" id="U-sR__NZDoA62dW4ddT0">
-    <mxGraphModel>
+    <mxGraphModel dx="1217" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-1" target="qGBcrJLT65IQzKRlAIpv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-1" target="qGBcrJLT65IQzKRlAIpv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-1" target="qGBcrJLT65IQzKRlAIpv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-1" value="Game Main Frame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-2" target="qGBcrJLT65IQzKRlAIpv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-2" value="Introduction" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-4" target="qGBcrJLT65IQzKRlAIpv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-4" value="Game Start" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="220" width="126" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-6" target="qGBcrJLT65IQzKRlAIpv-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-6" value="Quit" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-8" target="qGBcrJLT65IQzKRlAIpv-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-8" value="Enter game world" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-10" value="Return game main frame" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qGBcrJLT65IQzKRlAIpv-12" target="qGBcrJLT65IQzKRlAIpv-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="360" />
+              <mxPoint x="160" y="80" />
+              <mxPoint x="406" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-12" value="Game rules and control introduction" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qGBcrJLT65IQzKRlAIpv-15" value="Exit the game" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
