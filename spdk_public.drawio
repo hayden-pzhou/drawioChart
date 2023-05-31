@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T06:22:32.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="EFdBBNM8ZTwq7h-uN0m-" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T06:23:14.679Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="J8lS02NMmx5rDghMXhB3" version="21.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
           <mxGeometry x="395" y="410" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-14" value="初始化SPDK线程" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="425" width="60" height="30" as="geometry" />
+          <mxGeometry x="335" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iAqt3-FBgXSzbzAGJiQt-16" target="iAqt3-FBgXSzbzAGJiQt-18">
           <mxGeometry relative="1" as="geometry" />
@@ -93,6 +93,15 @@
         </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-27" value="until bdev&lt;br&gt;init done?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iAqt3-FBgXSzbzAGJiQt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iAqt3-FBgXSzbzAGJiQt-31" target="iAqt3-FBgXSzbzAGJiQt-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="720" />
+              <mxPoint x="320" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-31" value="Continue polling until&lt;br&gt;no more event" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="680" width="120" height="80" as="geometry" />
