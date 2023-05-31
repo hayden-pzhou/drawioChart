@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T07:37:36.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="fQEq4E0HFHOW5ZxmEOec" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T07:38:32.323Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="T5JEbdMf6-JYrCE-ZRCb" version="21.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-53" value="loop until&lt;br&gt;bdev fini&lt;br&gt;complete" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="1130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iAqt3-FBgXSzbzAGJiQt-55" value="polling app thread and thread in g_threads" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1142.5" width="155" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
