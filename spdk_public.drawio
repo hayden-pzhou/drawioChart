@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T06:32:50.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wdAaCPx25iQs3UduCTM6" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T07:21:42.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="7Zb4EDwnwkP_v5UxGDo1" version="21.3.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -133,6 +133,9 @@
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iAqt3-FBgXSzbzAGJiQt-42" target="iAqt3-FBgXSzbzAGJiQt-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iAqt3-FBgXSzbzAGJiQt-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iAqt3-FBgXSzbzAGJiQt-42" target="iAqt3-FBgXSzbzAGJiQt-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-42" value="spdk_public_cleanup_thread" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="970" width="200" height="60" as="geometry" />
         </mxCell>
@@ -141,6 +144,12 @@
         </mxCell>
         <mxCell id="iAqt3-FBgXSzbzAGJiQt-46" value="异步回调" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="560" y="930" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="iAqt3-FBgXSzbzAGJiQt-47" value="spdk_public_bdev_fini_start" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="1070" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iAqt3-FBgXSzbzAGJiQt-49" value="Finalize the bdev layer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="1065" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
