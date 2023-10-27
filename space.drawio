@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T13:39:17.160Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="w4x7u8bJpELYd1GKoz7h" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T13:40:40.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="UFkI-3gQozhxD6q8l4si" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2566" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -490,6 +490,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="T4qqK4omdGt2pyjAFDLx-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T4qqK4omdGt2pyjAFDLx-10" target="wvUIx9EUSzUpLCrMTZV1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="T4qqK4omdGt2pyjAFDLx-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;MultiTypeScoreCalculator&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ calculator: AdvanceScoreAdapter&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;+getScore(string): string" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1322.5" y="198" width="195" height="90" as="geometry" />
         </mxCell>
@@ -588,6 +595,13 @@
             <Array as="points">
               <mxPoint x="1070" y="1008" />
               <mxPoint x="950" y="1008" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T4qqK4omdGt2pyjAFDLx-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="T4qqK4omdGt2pyjAFDLx-34" target="wvUIx9EUSzUpLCrMTZV1-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>
